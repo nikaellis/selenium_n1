@@ -6,7 +6,7 @@ namespace TestWeb
     [TestClass]
     public class TestLogin
     {
-       // IWebDriver driver1 = new ChromeDriver();
+       //test IWebDriver driver1 = new ChromeDriver();
 
         public bool Is { get; private set; }
 
